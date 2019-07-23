@@ -1,6 +1,6 @@
 {
     "spec_version": "v1.16",
-    "identifier": "ModularFlightIntegrator",
+    "identifier": "ModularFlightIntegrator2",
     "name": "ModularFlightIntegrator",
     "abstract": "This is an amazing addon that will Modularly Integrate your Flight Models.",
     "author": "Sarbian",
@@ -12,7 +12,7 @@
     },
     "version": "1.2.6.0",
     "ksp_version_min": "1.5.0",
-    "ksp_version_max": "1.6.90",
+    "ksp_version_max": "1.7.99",
     "install": [
         {
             "find": "ModularFlightIntegrator",
